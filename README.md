@@ -1,7 +1,7 @@
 staticboot
 ==========
 
-Barebones static site - with Coffee, Compass, Livereload.
+Barebones static site - with Compass, Livereload.
 
 Clone this first, then run
 ```bash
